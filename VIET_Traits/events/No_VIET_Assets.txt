@@ -1,0 +1,33 @@
+##########################################
+#
+# Introducing VIET Core
+#
+##########################################
+
+namespace = cybrxkhan
+
+
+
+# NO VIET ASSETS!
+character_event = {
+	id = cybrxkhan.6
+	desc = "WARNING: You do not have VIET Assets installed for whatever reason. Please do so if you haven’t already, or, if you have, please try reinstalling it. This message will continue to appear until VIET Assets is properly installed."
+	
+	trigger = {
+		ai = no
+		NOT = { has_global_flag = VIET_Assets_On }
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "Okay"  # ok
+	}	
+	option = {
+		name = "I installed VIET Assets (this message will not appear again)"  # ok
+		set_global_flag = VIET_Assets_On
+	}
+	
+}

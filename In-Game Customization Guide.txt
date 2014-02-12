@@ -1,0 +1,48 @@
+===========
+INTRODVCTION
+===========
+
+This file lists all the customization options available in-game. Remember that there are also out-of-game customization options available in the "Customization Options" folder.
+
+To access these options, go to the decisions folder. There, you will see a decision named "See/Hide Customization Options." Click it to reveal all the options, and click it again to hide them.
+
+Clicking on the various options will trigger several events that allow you to change things to your liking.
+
+
+===========
+OPTIONS LIST
+===========
+
+Below is a listing of all available options, as well as any sub-options. Note that they may appear in a different order in-game.
+
+1. Choose Realm Names
+	A. Kingdom of Britain (vanilla Empire of Britannia)
+	B. Byzantine Empire
+	C. Kingdom of Spain (vanilla Empire of Hispania)
+	D. Kalmar Union (vanilla Empire of Scandinavia)
+	E. Latin Empire
+	F. Roman Empire
+	G. Poland-Lithuania
+	H. Carpathia
+2. Turn Childbirth Mortality On/Off
+3. Turn Old Age On/Off
+4. Customize CBs and Wars
+	A. Allow Orthodox Holy Wars on Muslims
+	B. Turn off Holy War Cooldowns
+	C. Enable/disable pagan province holy war restriction
+5. Turn Young Age On/Off
+6. Turn Culture Unique Mechanics On/Off
+	A. Turn Finnish Pagan Features On/Off
+	B. Turn Turkish Features On/Off
+	C. Turn West African Features On/Off
+7. Turn VIET Events On/Off
+	A. Turn Blatant Elder Scrolls References On/Off
+8. Change Conversion Rates
+	A. Cultural Conversion
+	B. Religious Conversion
+9. Randomize or Turn Invasions On/Off
+	A. Mongols
+	B. Seljuks
+	C. Timurids
+	D. Aztecs
+	E. ALL Hordes

@@ -1,0 +1,13 @@
+===========================
+Installation Instructions
+===========================
+
+Compatching is only necessary if you are using the Immersion module (both vanilla and PB versions).
+
+Instructions:
+
+1. Go to "ARKOpack_Armoiries/common."
+2. Delete the "religions" folder.
+
+
+You should be good to go.

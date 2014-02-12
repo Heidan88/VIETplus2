@@ -1,0 +1,12 @@
+#Jordarkelf
+faction_succ_tanistry_ultimatum_timer = { icon = 34 }
+faction_succ_ultimogeniture_ultimatum_timer = { icon = 34 }
+#Zaldax
+danced_with_the_dead = {
+	learning = 5
+	intrigue = 3
+	church_opinion = -10
+	icon = 18
+}
+#PB
+ransom_timer = { icon = 1 }

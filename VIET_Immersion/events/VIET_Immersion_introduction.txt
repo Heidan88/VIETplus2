@@ -1,0 +1,28 @@
+##########################################
+#
+# Introducing VIET Core
+#
+##########################################
+
+namespace = cybrxkhan
+
+narrative_event = {
+	id = cybrxkhan.4
+	title = "cybrxkhan.4.name"
+	desc = "cybrxkhan.4.desc"
+	major = yes
+	hide_new = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	picture = "GFX_evt_baklava"
+	
+	immediate = {
+		#set_global_flag = VIET_Immersion_On
+	}
+	
+	option = {
+		name = "cybrxkhan.4.a"
+		set_global_flag = VIET_Immersion_On
+	}
+}
